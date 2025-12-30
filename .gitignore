@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Distribution / Build files (EXE files)
+dist/
+build/
+*.spec
+
+# User Data (Personal photos)
+input/
+output/
+Upscaled_Output/
+*.jpg
+*.png
+*.jpeg
+*.webp
+
+# VS Code settings
+.vscode/
